@@ -12,6 +12,10 @@
                 <input type="text" name="Address"><br>
         Age:<br>
                 <input type="number" name="Age"><br>
+
+	City: <br>
+		<inout type= "text" name="City"><br>
+
 </form> 
 
   </h2> All fields are optional </h2>
